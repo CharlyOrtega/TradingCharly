@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "20912395928",
+    "firebase_url": "https://tradingcharly.firebaseio.com",
+    "project_id": "tradingcharly",
+    "storage_bucket": "tradingcharly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20912395928:android:1f030dd5fa202435",
+        "android_client_info": {
+          "package_name": "miapp.trading.charly.tradingcharly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20912395928-2g8ppekdrpeam6aanvisl6fv6bc2do2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GG6-PPbRu33wPxQ7-FAcVHpf5eTjBgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
